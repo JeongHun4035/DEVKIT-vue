@@ -3,7 +3,7 @@
 
 <template>
   <div>
-    ss
+    <RouterView />
   </div>
 </template>
 
