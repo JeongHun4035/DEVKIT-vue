@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <div class="card space-y-4">
-    <h2 class="text-xl">Home</h2>
-  </div>
+  <h2 class="text-xl">Home</h2>
 </template>
 
 <style lang="scss" scoped>
