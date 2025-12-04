@@ -63,7 +63,7 @@ apiClient.interceptors.response.use(
 /**
  * ✅ request.get / post / put / patch / delete 방식
  */
-export const request = {
+export const axiosRequest = {
   get: async <TResponse = unknown>(
     apiPath: string,
     params?: Record<string, any>,
