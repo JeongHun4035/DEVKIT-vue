@@ -1,0 +1,32 @@
+{
+  "hash": "6f3ec4b7",
+  "configHash": "c566f7b9",
+  "lockfileHash": "336bd66f",
+  "browserHash": "cada7956",
+  "optimized": {
+    "axios": {
+      "src": "../../node_modules/.pnpm/axios@1.13.2/node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "fb01c5bd",
+      "needsInterop": false
+    },
+    "pinia": {
+      "src": "../../node_modules/.pnpm/pinia@3.0.4_typescript@5.9.3_vue@3.5.25_typescript@5.9.3_/node_modules/pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "5a3c9439",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/.pnpm/vue@3.5.25_typescript@5.9.3/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "5fdef312",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "vue.runtime.esm-bundler-k4xrP09T": {
+      "file": "vue.runtime.esm-bundler-k4xrP09T.js",
+      "isDynamicEntry": false
+    }
+  }
+}
